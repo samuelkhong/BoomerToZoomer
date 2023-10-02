@@ -19,7 +19,7 @@ The project comprises three main components:
 
 2. **FastAPI Backend**: The Python code uses the FastAPI framework to create a backend server. It integrates with OpenAI's language models to perform text translation. The server listens for POST requests on the '/process' endpoint, processes user input, and returns the translated result in JSON format. CORS (Cross-Origin Resource Sharing) is implemented to allow requests from specific origins.
 
-3. **JavaScript for User Interaction**: JavaScript code waits for the document to load before attaching an event listener to the translation button. When the button is clicked, it collects the user's input, sends it to the FastAPI backend, and receives the translated response. The translated text is then displayed on the web page. Error handling is implemented to gracefully manage any issues.
+3. **JavaScript for User Interaction**: JavaScript code waits for the document to load before attaching an event listener to the translation button. When the button is clicked, it collects the user's input, sends it to the FastAPI backend, and receives the translated response. The translated text is then displayed on the web page.
 
 ## Functionality
 
