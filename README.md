@@ -1,7 +1,7 @@
 
 # BoomerToZoomer
 
-Ever wanted to sound like those TikTok Stars? Boomer to Zoomer" combines a user-friendly web interface with a FastAPI backend and OpenAI integration to provide users with the ability to convert their messages into Gen Z slang. **Boomer to Zoomer Translator** is a web application that leverages OpenAI's language models to convert user-inputted text into Gen Z slang. This README provides an overview of the project's components, functionality, and how to set it up for use.
+Ever wanted to sound like those TikTok Stars? Boomer to Zoomer" combines a user-friendly web interface with a FastAPI backend and OpenAI integration to provide users with the ability to convert their messages into Gen Z slang. **Boomer to Zoomer Translator** is a web application that leverages OpenAI's language models to convert user-inputted text into Gen Z slang. 
 
 ## Table of Contents
 
